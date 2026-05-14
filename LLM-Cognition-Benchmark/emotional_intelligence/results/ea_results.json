@@ -1,0 +1,32 @@
+[
+  {
+    "model": "deepseek",
+    "Problem": 0.76,
+    "Relationship": 0.76,
+    "EA": 0.76
+  },
+  {
+    "model": "qwen2.5",
+    "Problem": 0.75,
+    "Relationship": 0.75,
+    "EA": 0.75
+  },
+  {
+    "model": "glm4-32b",
+    "Problem": 0.71,
+    "Relationship": 0.71,
+    "EA": 0.71
+  },
+  {
+    "model": "hunyuan-a13b",
+    "Problem": 0.695,
+    "Relationship": 0.695,
+    "EA": 0.695
+  },
+  {
+    "model": "kimi-k2",
+    "Problem": 0.76,
+    "Relationship": 0.76,
+    "EA": 0.76
+  }
+]

@@ -1,0 +1,22 @@
+| Task | Model | Accuracy |
+|------|--------|----------|
+| Commonsense-CN | qwen3 | 78.00% |
+| Commonsense-CN | kimi | 76.00% |
+| Commonsense-CN | glm5 | 72.67% |
+| Commonsense-CN | deepseek | 72.00% |
+| Commonsense-CN | hunyuan | 69.33% |
+| CommonsenseQA | glm5 | 85.20% |
+| CommonsenseQA | kimi | 84.40% |
+| CommonsenseQA | qwen3 | 84.00% |
+| CommonsenseQA | deepseek | 80.40% |
+| CommonsenseQA | hunyuan | 76.80% |
+| PIQA | glm5 | 96.00% |
+| PIQA | qwen3 | 95.20% |
+| PIQA | kimi | 93.20% |
+| PIQA | deepseek | 88.80% |
+| PIQA | hunyuan | 84.40% |
+| Social_IQA | glm5 | 82.40% |
+| Social_IQA | qwen3 | 81.20% |
+| Social_IQA | kimi | 80.00% |
+| Social_IQA | deepseek | 76.80% |
+| Social_IQA | hunyuan | 75.60% |
